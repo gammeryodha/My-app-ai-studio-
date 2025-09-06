@@ -1,0 +1,5 @@
+{
+  "name": "Test app",
+  "description": "An application that uses AI to generate short videos from text prompts.",
+  "requestFramePermissions": []
+}
